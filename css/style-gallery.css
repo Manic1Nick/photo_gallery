@@ -1,0 +1,27 @@
+/*---------------------------------------------------------*/
+/* BASIC SETUP */
+/*---------------------------------------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #1f1f1f;
+    color: #555;
+    /* font-family: 'Lobster', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    text-rendering: optimizeLegibility; */
+}
+
+img {
+    width: auto;
+    max-width: 100%;
+    margin: auto;
+    max-height: 100%;
+    display: block;
+    padding: 10px;
+}
